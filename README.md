@@ -31,6 +31,14 @@ PWD = ""
 ```bash
 pip install -r requirements.txt
 ```
+4. 确保数据库能正常连接
+```bash
+python manage.py shell
+# 默认注释掉了后台的注册入口,需进入shell命令创建超级管理员
+from admin import *
+a=AdminUser(username="admin",password="admin",email="demo@qq.com")
+a.save()
+```
 
 ## 启动
 
