@@ -45,3 +45,10 @@ a.save()
 ```python
 python manage.py runserver
 ```
+
+## git提交
+```bash
+# 将根目录下的push.sh文件改成可执行文件
+chmod +x push.sh
+./push.sh
+```
