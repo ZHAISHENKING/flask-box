@@ -52,3 +52,23 @@ python manage.py runserver
 chmod +x push.sh
 ./push.sh
 ```
+
+## req
+```
+Flask==1.0.2
+Flask-Admin==1.5.1
+Flask-API==1.0
+Flask-BabelEx==0.9.3
+Flask-Cache==0.13.1
+Flask-Cors==3.0.6
+Flask-Limiter==1.0.1
+Flask-Login==0.4.1
+Flask-Migrate==2.1.1
+flask-mongoengine==0.9.5
+Flask-RESTful==0.3.6
+Flask-Script==2.0.6
+Flask-SQLAlchemy==2.3.2
+Flask-wechatpy==0.1.3
+Flask-WTF==0.14.2
+PyJWT==1.6.3
+```
