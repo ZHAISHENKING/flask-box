@@ -1,5 +1,5 @@
 # flask-box
-🚀可复用工厂模式框架
+🚀flask+restfulAPI项目demo
 
 ## 使用的库
 - [x] flask
