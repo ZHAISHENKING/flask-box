@@ -17,7 +17,7 @@ Flask-Admin
 Flask-API==1.0
 Flask-BabelEx==0.9.3
 Flask-Cache==0.13.1
-Flask-Cors==3.0.6
+Flask-Cors==3.0.9
 Flask-Limiter==1.0.1
 Flask-Login==0.4.1
 Flask-Migrate==2.1.1
